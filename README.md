@@ -2,7 +2,7 @@
 ![License Badge](https://img.shields.io/github/license/andykb9b13/make-a-readme)
 
 ## Description
-This app creates a professional readme from user input
+An app that creates a professional README file from user input.
 
 ## Table of Contents
 1. [Installing Dependencies](#installing-dependencies)
@@ -17,13 +17,13 @@ This app creates a professional readme from user input
 npm init -y
 
 ## Usage
-Please use it lovingly
+The app is intended to shorten the amount of time a user needs to spend creating a professional README document to so that they can spend more time developing the app. Images are not included in the generator because file paths in each repo will be different. 
 
 ## Contributing
-contribute!
+Please feel free to contribute as much as you like to improve the functionality and quality of the repo!
             
 ## Testing
-test
+There are currently no commands for testing the app.
             
 ## Reporting Errors
 Please report errors to andy.kleindienst@gmail.com
@@ -34,4 +34,4 @@ MIT License
 ## Questions
 For any questions regarding this project, please send correspondence to andy.kleindienst@gmail.com.
 
-Please visit my profile on Github.[GitHub Profile](https://github.com/andykb9b13).
+Please visit my profile on [GitHub](https://github.com/andykb9b13).
