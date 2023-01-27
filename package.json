@@ -1,0 +1,23 @@
+{
+  "name": "make-a-readme",
+  "version": "1.0.0",
+  "description": "A command line application for creating an automatically generated readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andykb9b13/make-a-readme.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andykb9b13/make-a-readme/issues"
+  },
+  "homepage": "https://github.com/andykb9b13/make-a-readme#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
