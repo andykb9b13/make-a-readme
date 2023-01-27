@@ -1,4 +1,4 @@
-# Awesome Project
+# ${answers.projectName}
 
 ## Table of Contents
 1. [Description](#description)
@@ -9,19 +9,19 @@
 6. [Contributing](#contributing)
 
 ## Description
-This is a short description of the awesome project. it does awesome stuff. It looks awersome.
+${answers.description}
          
 ## License
-Microsoft Public License
+${answers.license}
             
 ## Installing Dependencies
-npm init -y
+${answers.dependencies}
             
 ## Testing
-test
+${answers.test}
             
 ## Reporting Errors
-REporting errors directly to me
+${answers.errors}
             
 ## Contributing
-contribute away!
+${answers.contributing}
