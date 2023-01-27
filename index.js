@@ -53,6 +53,7 @@ inquirer
     .then((answers) => {
         fs.writeFile('README.md',
             `# ${answers.projectName}
+![License Badge](https://img.shields.io/github/license/${answers.github}/${answers.projectName})
 
 ## Table of Contents
 1. [Description](#description)

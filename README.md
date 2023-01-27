@@ -1,4 +1,5 @@
-# Awesome Project
+# make-a-readme
+![License Badge](https://img.shields.io/github/license/andykb9b13/make-a-readme)
 
 ## Table of Contents
 1. [Description](#description)
@@ -9,10 +10,10 @@
 6. [Contributing](#contributing)
 
 ## Description
-This is a short description of the awesome project. it does awesome stuff. It looks awersome.
+This project makes a professional readme from a template
          
 ## License
-Microsoft Public License
+MIT License
             
 ## Installing Dependencies
 npm init -y
@@ -21,7 +22,7 @@ npm init -y
 test
             
 ## Reporting Errors
-REporting errors directly to me
+report them to me
             
 ## Contributing
 contribute away!
