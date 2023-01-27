@@ -1,38 +1,37 @@
-# aslkjw
-![License Badge](https://img.shields.io/github/license/andyk/aslkjw)
-
-## Table of Contents
-1. [Description](#description)
-2. [License](#license)
-3. [Installing Dependencies](#installing-dependencies)
-4. [Usage](#usage)
-5. [Testing](#testing)
-6. [Reporting Errors](#reporting-errors)
-7. [Contributing](#contributing)
-8. [Questions](#questions)
+# make-a-readme
+![License Badge](https://img.shields.io/github/license/andykb9b13/make-a-readme)
 
 ## Description
-slkjw
-      
-## License
-MIT License
+This app creates a professional readme from user input
+
+## Table of Contents
+1. [Installing Dependencies](#installing-dependencies)
+2. [Usage](#usage)
+3. [Contributing](#contributing)
+4. [Testing](#testing)
+5. [Reporting Errors](#reporting-errors)
+6. [License](#license)
+7. [Questions](#questions)
             
 ## Installing Dependencies
-wlkejr
+npm init -y
 
 ## Usage
-welkrj
+Please use it lovingly
+
+## Contributing
+contribute!
             
 ## Testing
-weklj
+test
             
 ## Reporting Errors
-werkj
-            
-## Contributing
-welrkj
+Please report errors to andy.kleindienst@gmail.com
+
+## License
+MIT License
 
 ## Questions
-For any questions regarding this project, please send correspondence to answ.
+For any questions regarding this project, please send correspondence to andy.kleindienst@gmail.com.
 
-Please visit my profile on Github.[GitHub Profile](https://github.com/andyk).
+Please visit my profile on Github.[GitHub Profile](https://github.com/andykb9b13).

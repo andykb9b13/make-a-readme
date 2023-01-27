@@ -60,40 +60,39 @@ inquirer
             `# ${answers.projectName}
 ![License Badge](https://img.shields.io/github/license/${answers.github}/${answers.projectName})
 
-## Table of Contents
-1. [Description](#description)
-2. [License](#license)
-3. [Installing Dependencies](#installing-dependencies)
-4. [Usage](#usage)
-5. [Testing](#testing)
-6. [Reporting Errors](#reporting-errors)
-7. [Contributing](#contributing)
-8. [Questions](#questions)
-
 ## Description
 ${answers.description}
-      
-## License
-${answers.license}
+
+## Table of Contents
+1. [Installing Dependencies](#installing-dependencies)
+2. [Usage](#usage)
+3. [Contributing](#contributing)
+4. [Testing](#testing)
+5. [Reporting Errors](#reporting-errors)
+6. [License](#license)
+7. [Questions](#questions)
             
 ## Installing Dependencies
 ${answers.dependencies}
 
 ## Usage
 ${answers.usage}
+
+## Contributing
+${answers.contributing}
             
 ## Testing
 ${answers.test}
             
 ## Reporting Errors
 ${answers.errors}
-            
-## Contributing
-${answers.contributing}
+
+## License
+${answers.license}
 
 ## Questions
 For any questions regarding this project, please send correspondence to ${answers.email}.\n
-Please visit my profile on Github.[GitHub Profile](https://github.com/${answers.github}).`,
+Please visit my profile on [GitHub](https://github.com/${answers.github}).`,
             (err) => (err) ? console.log("Something went wrong") : console.log("Success"))
     })
 
